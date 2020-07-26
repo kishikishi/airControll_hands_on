@@ -16,5 +16,5 @@ airControll_hands_on/etc/lirc
 airControll_hands_on/etc/systemd  
  →ラズパイ起動後、定期的にシステムを動作するための設定情報が格納されています。
   
-airControll_hands_on/python_script/
+airControll_hands_on/python_script/  
  →赤外線信号の学習時に必要なプログラムと、システム本体のプログラムが入っています。
