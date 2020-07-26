@@ -1,0 +1,5 @@
+[Unit]
+Description=do airconsystem
+
+[Service]
+ExecStart=/usr/bin/python3 /home/pi/systemd/getTimeline.py
