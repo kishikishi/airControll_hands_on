@@ -1,4 +1,7 @@
 #coding: UTF-8
+#以下サイトより引用
+#https://kaiware007.hatenablog.jp/entry/2015/08/28/020356
+
 import sys
 
 argvs = sys.argv
